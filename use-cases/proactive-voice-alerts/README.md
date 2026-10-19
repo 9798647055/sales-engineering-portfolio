@@ -11,7 +11,7 @@ Business system -> Event -> Cloud Telephony API -> Identify recipient -> Outboun
 | Industry | Trigger | Recipient |
 |---|---|---|
 | Transport / fleet | Overspeeding, engine overheating, fatigue | Driver |
-| Banking | Suspicious transaction | Customer |
+| Banking | Suspicious transaction, loan payment due | Customer |
 | Healthcare | Appointment or medication reminder | Patient |
 | Telecom | Recharge or plan expiry reminder | Customer |
 | Utilities | Outage or payment due | Customer |
@@ -22,3 +22,4 @@ Business system -> Event -> Cloud Telephony API -> Identify recipient -> Outboun
 |---|---|
 | [Green Line Energy: Telematics & Driver Safety](../../green-line-energy/README.md) | Travel / Transportation |
 | [Haptik (for Jio): Recharge Reminder Voicebot](../../haptik-jio-voicebot/README.md) | Telecom / Conversational AI |
+| [PNB: Automated Loan Collection Calls](../../pnb-loan-collection-calls/README.md) | Banking / BFSI |

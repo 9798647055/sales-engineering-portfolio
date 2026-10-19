@@ -13,6 +13,7 @@ Each client has its own folder with a full write-up: requirements, proposed solu
 | [Dot & Key](dot-and-key/README.md) | Exotel | Beauty & Cosmetics / D2C | Order status IVR on a single number | Voice (IVR) | Implemented |
 | [Swiss Beauty](swiss-beauty/README.md) | Exotel | Beauty & Cosmetics / D2C | Order status IVR with WebRTC agent calling | Voice (IVR + WebRTC) | Implemented |
 | [Haptik (for Jio)](haptik-jio-voicebot/README.md) | Exotel | Telecom / Conversational AI | Recharge reminder voicebot on SIP trunk + chat-to-callback | Voice (SIP trunk, outbound API) | Implemented |
+| [Punjab National Bank (PNB)](pnb-loan-collection-calls/README.md) | Sarv Group | Banking / BFSI | Automated loan collection calls with portal reporting | Voice (automated outbound) | Implemented |
 
 ## Repository structure
 ```
